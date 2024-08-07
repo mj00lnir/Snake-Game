@@ -1,1 +1,2 @@
 # Snake-Game
+This classic Snake game is built using HTML, CSS, and JavaScript. Navigate the snake to eat the food, which makes the snake grow longer and increases your score. Be careful not to collide with the walls or the snake's own body, or the game will be over. The game features smooth animations, responsive controls, and an engaging user interface, providing an enjoyable experience for all players.
